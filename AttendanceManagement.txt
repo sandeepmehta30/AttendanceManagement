@@ -1,0 +1,8 @@
+C++ Project on Attendance Management
+
+Features
+This project manages attendance of students
+Admin can register students and create username & password for student
+Student can login, mark attendance of same day & also can see history of attendance
+Please note Admin username is : "admin" , password is "admin@2"
+Compiled on g++ compiler
